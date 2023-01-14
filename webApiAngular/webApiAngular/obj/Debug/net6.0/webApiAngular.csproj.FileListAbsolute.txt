@@ -1,0 +1,74 @@
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\appsettings.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.exe
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.deps.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.runtimeconfig.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.pdb
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.csproj.AssemblyReference.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.AssemblyInfoInputs.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.AssemblyInfo.cs
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.csproj.CoreCompileInputs.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\scopedcss\bundle\webApiAngular.styles.css
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.csproj.CopyComplete
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\refint\webApiAngular.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.pdb
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.genruntimeconfig.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder\webApiAngular\webApiAngular\obj\Debug\net6.0\ref\webApiAngular.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\appsettings.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.exe
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.deps.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.runtimeconfig.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\webApiAngular.pdb
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.csproj.AssemblyReference.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.AssemblyInfoInputs.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.AssemblyInfo.cs
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.csproj.CoreCompileInputs.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\scopedcss\bundle\webApiAngular.styles.css
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.csproj.CopyComplete
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\refint\webApiAngular.dll
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.pdb
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\webApiAngular.genruntimeconfig.cache
+C:\Users\ssrus\Desktop\ASP.Net\New folder (2)\webApiAngular\webApiAngular\obj\Debug\net6.0\ref\webApiAngular.dll
